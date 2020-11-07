@@ -1,7 +1,7 @@
 # Repositorio utilizado durante la sesion de GIT
 Este es un repositorio utilizado durante la sesion de GIT
 
-## Este es un titulo agrrgado usando Markdown
+## Este es un titulo agregado usando Markdown
 
 Esta es una lista
 - Este es el item uno de la lista
